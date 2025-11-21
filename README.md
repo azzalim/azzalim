@@ -4,6 +4,6 @@ Me chamo **Renan Assalim**, sou graduando de Sitemas de Informação e criei est
 
 🎲 Atualmente atuo como **Estagiário em Dados** na **HealthBit Performasys**.
 
-🧑🏻‍💻 Atualmente tenho interesse em aprofundar meu conhecimento em `Python`, `SQL`, `Excel`, `Power BI` e `Inteligência Artificial`.
+🧑🏻‍💻 Atualmente tenho interesse em aprofundar meu conhecimento em `Python`, `JavaScript`, `SQL`, `Excel`, `Power BI` e `Inteligência Artificial`.
 
 🤗 Estou aberto a novos contatos e amizades, além de poder colaborar em novos projetos!
